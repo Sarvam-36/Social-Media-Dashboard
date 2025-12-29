@@ -27,12 +27,11 @@ This project focuses on clean UI design, usability, and basic front-end logic.
 ## 📁 Project Structure
 
 Social-Media-Dashboard/
-│── index.html
-│── style.css
-│── script.js
-│── screenshot.png   
-│── README.md
-
+│── index.html  
+│── style.css  
+│── script.js  
+│── screenshot.png  
+│── README.md  
 
 ---
 
